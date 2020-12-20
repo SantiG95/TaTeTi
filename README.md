@@ -6,7 +6,6 @@ Una version simple del TaTeTi, que se puede jugar de a uno o de a dos
 Se elige primero cuantos jugadores van a jugar.
 Cada jugador se le asignara una forma (O / X) y dara inicio el juego.
 Por turnos, cada uno elegira un cuadro libre del tablero, que sera marcado con la forma que tiene asignada.
-El juego continuara hasta que hayan 3 cuadros con la misma forma que esten puestos de forma horizontal, vertical o en alguna de las dos diagonales posibles.
 
 # Modo 1 Jugador
 El jugador se enfrentara a una IA simplificada.
