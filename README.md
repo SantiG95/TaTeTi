@@ -11,8 +11,8 @@ El juego continuara hasta que hayan 3 cuadros con la misma forma que esten puest
 # Modo 1 Jugador
 El jugador se enfrentara a una IA simplificada.
 
-Jugador 1 (Humano): O
-Jugador 2 (IA): X
++ Jugador 1 (Humano): O
++ Jugador 2 (IA): X
 
 Luego de cada eleccion del jugador, la IA elegira al azar un cuadro libre del tablero para marcar.
 La IA no elegirá cuadros que ya hayan sido elegidos anteriormente.
@@ -21,8 +21,8 @@ La desicion de la IA es completamente al azar, siendo posible que no elija un re
 # Modo 2 Jugadores
 Dos jugadores humanos se enfrentaran.
 
-Jugador 1 (Humano): O
-Jugador 2 (Humano): X
++ Jugador 1 (Humano): O
++ Jugador 2 (Humano): X
 
 Luego de cada eleccion de un jugador, le tocara el turno al jugador oponente.
 
