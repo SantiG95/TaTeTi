@@ -13,9 +13,9 @@ El jugador se enfrentara a una IA simplificada.
 + Jugador 1 (Humano): O
 + Jugador 2 (IA): X
 
-Luego de cada eleccion del jugador, la IA elegira al azar un cuadro libre del tablero para marcar.
+Luego de cada eleccion del jugador, la IA analizara el tablero y elegira un cuadro libre para marcar.
 La IA no elegirá cuadros que ya hayan sido elegidos anteriormente.
-La desicion de la IA es completamente al azar, siendo posible que no elija un recuadro que pueda hacerle ganar.
+La desicion de la IA tomara en cuenta si puede ganar marcando cierto cuadro.
 
 # Modo 2 Jugadores
 Dos jugadores humanos se enfrentaran.
